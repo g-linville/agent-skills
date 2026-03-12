@@ -1,6 +1,6 @@
 ---
 name: code-review
-description: Review code changes for quality issues, security vulnerabilities, and adherence to best practices.
+description: Review code changes for quality, security, performance, and best practices (feature-branch version).
 license: MIT
 compatibility: Works with any Git repository.
 metadata:
