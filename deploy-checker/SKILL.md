@@ -2,6 +2,7 @@
 name: deploy-checker
 description: Verify a deployment is healthy by checking endpoints, logs, and metrics.
 metadata:
+  newMetadata: hello-world
   createdAt: "2026-03-01T10:00:00Z"
   author: test-user
 ---
